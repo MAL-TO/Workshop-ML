@@ -1,0 +1,37 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Ruff cache (if any build artifacts exist, usually minimal)
+ruff_cache/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python virtual environments
+.venv/
+venv/
+.env/
+
+# Data files
+*.csv
+*.tsv
+*.data
+*.dat
+
+# Model files
+*.h5
+*.hdf5
+*.pkl
+*.joblib
+
+# Miscellaneous
+.DS_Store
+*.log
+
+# uv package manager lock files (optional — depends if you want to track them)
+.uv/
+
+# VS Code settings (if you're using it)
+.vscode/
