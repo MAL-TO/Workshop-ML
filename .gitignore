@@ -8,3 +8,5 @@ Titanic-Dataset.csv
 train.csv
 data/test2.csv
 data/train2.csv
+venv    
+__pycache__/
