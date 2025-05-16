@@ -12,7 +12,6 @@ data/train2.csv
 /venv/
 venv/
 __pycache__/
-metadata/
 *.ipynb
 *.ipynb_checkpoints
 *.pyc
