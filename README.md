@@ -37,3 +37,48 @@ The labs of Part I have been curated by Andrea Lolli, Samet Basarat, and Claudio
 - Cross-Validation
 
 The labs of Part II have been curated by Ayberk Munis, and Claudio Savelli.
+
+### PART III - Regression 
+
+- Introduction
+  - Regression vs Classification
+  - Evaluation Metrics
+- Loading and Inspection the Dataset
+- Train/Validation/Test Split
+- Feature Scaling
+- Training Different Models and Error Evaluation
+  - Linear Regression
+  - Polynomial Regression
+  - Ridge Regression
+  - Lasso Regression
+  - Decision Tree Regressor
+  - Random Forest Regressor
+  - Support Vector Regressor
+- Error Analysis
+
+The labs of Part III have been curated by Tommaso Mazzarini, Arman, and Claudio Savelli.
+
+### PART IV - Clustering 
+
+- Introduction
+  - Supervised Learning VS Unsupervised Learning
+- Loading and preparing the Data
+  - Initial feature visualization and distribution
+    - Histogram
+    - Pairplot
+    - Importance of Feature Scaling 
+- Exploring the Data Structure 
+  - PCA (Principal Component Analysis)
+  - t-SNE (t-Distributed Stochastic Neighbor Embedding)
+- Clustering Algorithms
+  - K-means
+  - DBSCAN
+  - Hierarchical Clustering
+- How to evaluate Clustering performance
+  - Elbow Method
+  - Silhouette Score
+  - Rand Index 
+  - Adjusted Rand Index
+  - Davies-Bouldin Index
+
+The labs of Part IV have been curated by Niccolò Malgeri, Emanuele and Claudio Savelli.
